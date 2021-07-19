@@ -1,11 +1,11 @@
 :root {
   --color-text: #999;
-  --color-text-dimmed: #666;
-  --color-text-bright: #ff00ff;
-  --color-background: #000fff;
+  --color-text-dimmed: #555;
+  --color-text-bright: #fff;
+  --color-background: #000;
 
-  //--font-primary: "Roboto Condensed";
-  //--font-secondary: "Roboto";
+  --font-primary: "Roboto Condensed";
+  --font-secondary: "Roboto";
 
   --font-size: 30px;
   --font-size-small: 0.75rem;
@@ -30,7 +30,7 @@ html {
   display: none;
 }
 
-//body {
+body {
   margin: var(--gap-body-top) var(--gap-body-right) var(--gap-body-bottom) var(--gap-body-left);
   position: absolute;
   height: calc(100% - var(--gap-body-top) - var(--gap-body-bottom));
