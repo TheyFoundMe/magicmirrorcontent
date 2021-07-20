@@ -87,7 +87,7 @@ body {
 
 .thin {
   font-family: var(--font-secondary), sans-serif;
-  font-weight: 100;
+  font-weight: 600;
 }
 
 .light {
@@ -97,7 +97,7 @@ body {
 
 .regular {
   font-family: var(--font-primary), sans-serif;
-  font-weight: 200;
+  font-weight: 700;
 }
 
 .bold {
