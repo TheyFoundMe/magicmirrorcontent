@@ -1,22 +1,60 @@
 {
     "anytime" : [
-        "Olá!"
+        "Olá!",
+        "O único lugar onde o sucesso vem antes do trabalho é no dicionário.",
+        "A educação é o que sobra depois que a gente se esquece do que aprendeu na escola.",
+        " Falta de tempo é desculpa daqueles que perdem tempo por falta de métodos",
+        
+        
+        "",
     ],
     "morning" : [
         "Bom dia!",
+        "Um pequeno pensamento positivo pela manhã pode mudar todo o seu dia.",
         "Bom dia, flor do dia!",
         "Não importa a cor do céu. Quem faz o dia bonito é você.",
-        "Quem precisa de café quando você tem seu sorriso?"
+        "A cada nova manhã, nasce junto uma nova chance. Bom dia!",
+        "O seu sorriso pode mudar o dia de alguém.",
+        "Que hoje nada e nem ninguém estrague seu dia. Bom dia!",
+        "Seja o bom dia que você deseja!",
+        "Hoje vai ser um bom dia!",
+        "Hoje é dia de semear coisas boas. Bom dia!",
+        "Comece cada dia sendo grato por ele. Bom dia!",
+        "Que o dia nos apronte boas surpresas e nos faça sorrir.",
+        "Hoje é um dia que nunca mais irá se repetir. Aproveite. Tenha um bom dia!",
+        "A vida é o nosso maior presente, tenha consciência disso. Bom Dia!",
+        "Bom dia! A vida sempre nos oferece uma segunda chance e ela se chama amanhecer!",
+        "Quem precisa de café quando você tem seu sorriso?",
+        "O bom dia que você deseja só depende de você!",
+        "Para começar bem o dia, uma pitadinha de amor e outra bem generosa de gratidão.",
+        "Cada novo amanhecer é uma nova chance que a vida te dá!",
+        "Todo dia é sempre um recomeço!",
+        "Comece o dia longe de toda negatividade. Bom dia!",
+        "Novo dia, nova emoção!",
+        "O mundo é de quem acorda feliz!",
     ],
     "afternoon" : [
+        "Boa tarde! Que tal um cafézinho?",
         "Boa tarde!",
-        "Você está fazendo a diferença!",
-        "Você é mais divertido do que plástico bolha!"
+        "Com coragem para lutar nada nos vencerá. Boa tarde!",
+        "Aproveite o por do sol, ele só se põe uma vez por dia!",
+        "Um passo por vez. Ainda que o seu coração tenha corrido uma maratona pela manhã. Boa tarde!",
+        "Seja leve e releve. Boa tarde!",
+        "Boa tarde! Já sorriu para alguém hoje?",
+        "Você está fazendo a diferença?",
+        "Seja a diferença.",
+        "Que tarde linda! Acho que foi inspirada em você!",
+        "Quando se está em paz, não há dia que não seja bonito. Boa tarde!",
+        "Boa tarde! Uma tarde linda como você!",
+        "Você é mais divertido do que plástico bolha! Boa tarde!"
     ],
     "evening" : [
-
+        "Durma com ideias, acorde com atitudes. Boa noite!",
         "Boa noite!",
-        "Você fez alguém sorrir hoje.",
-        "Você está fazendo a diferença."
+        "Tenha uma boa noite e lembre-se: a alegria vem pela manhã.",
+        "Você fez alguém sorrir hoje?",
+        "Boa noite. Durma em paz. Amanhã tem mais!",
+        "A paz é a gente que faz. Boa noite!",
+        "Você está fazendo a diferença?"
     ]
 }
