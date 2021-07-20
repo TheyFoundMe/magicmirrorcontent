@@ -146,7 +146,8 @@ sup {
 .compliments {
   font-family: var(--font-primary);
   font-weight: 700;
-  width: 100px;
+  width: 75%;
+  text-align: center;
 }
 
 
