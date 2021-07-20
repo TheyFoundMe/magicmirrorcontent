@@ -2,7 +2,7 @@
 @font-face {
   font-family: "Roboto";
   font-weight: 100;
-  src: url("sf/SF-Pro-Text-Regular.woff");
+  src: url("~/sf/SF-Pro-Text-Regular.woff");
 }
 
 /** Thin */
@@ -37,5 +37,5 @@
 @font-face {
   font-family: "Roboto Condensed";
   font-weight: 700;
-  src: url("sf/SF-Pro-Display-Black.woff");
+  src: url("~/sf/SF-Pro-Display-Black.woff");
 }
