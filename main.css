@@ -147,8 +147,8 @@ sup {
   font-family: var(--font-primary);
   font-weight: 700;
   overflow:visible;
-  text-shadow: 0px 0px 100px #fff,
-               0px 0px 50px #fff;
+  text-shadow: 0px 0px 500px #fff,
+               0px 0px 150px #fff;
 }
 
 
