@@ -134,8 +134,7 @@
         "Boa noite. Durma em paz. Amanhã tem mais!",
         "A paz é a gente que faz. Boa noite!",
         "Você fez a diferença?"
-    ]
-    
+    ],
     "rain" : [
         "Leve seu guarda-chuva com você",
         "Não esqueça o seu casaco",
@@ -147,5 +146,5 @@
         "Não esqueça o seu casaco",
         "Está chuvoso lá fora, dirija com cuidado!",
         "Está chuvoso lá fora, mas você ilumina o meu dia" 
-    ],
+    ]
 }
