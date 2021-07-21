@@ -303,7 +303,7 @@ sup {
   top: 25%;
   z-index: 2;
   width: 70%;
-  transform: translateX(-30%);
+  transform: translateX(30%);
 }
 
 .region.middle.center {
