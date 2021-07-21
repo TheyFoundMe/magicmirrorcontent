@@ -153,9 +153,7 @@ sup {
 }
 
 
- .MMM-ServerStatus {
-  font-size: 0.1rem;
- }
+
 
 .compliments {
   font-family: var(--font-primary);
@@ -168,13 +166,34 @@ sup {
 
 }
 
-.helloworld {
-  color: #ff00ff;
+
+/**
+ * Debug.
+ */
+
+
+.MMM-ServerStatus {
+ display: none;
+ visibility: hidden;
+}
+
+.MMM-Tools {
   display: none;
   visibility: hidden;
 }
 
+.helloworld {
+  color: #fff;
+  /**display: none;
+  visibility: hidden;*/
+}
 
+
+
+
+/**
+ * Default styles.
+ */
 
 .wbclock .local {
   margin-right: 60px; 
