@@ -157,6 +157,8 @@ sup {
 
 .helloworld {
   color: #ff00ff;
+  display: none;
+  visibility: hidden;
 }
 
 
