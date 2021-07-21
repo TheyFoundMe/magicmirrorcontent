@@ -135,24 +135,11 @@ sup {
  */
 
 
-.MMM-TelegramBot {
-  display: none;
-  visibility: hidden;
-}
-
-.MMM-ServerStatus {
-  display: none;
-  visibility: hidden;
-}
-
-
 
 .WB-weather {
   width: 1550px;
   height: 200px;
 }
-
-
 
 
 .compliments {
@@ -167,33 +154,7 @@ sup {
 }
 
 
-/**
- * Debug.
- */
 
-
-.MMM-ServerStatus {
- display: none;
- visibility: hidden;
-}
-
-.MMM-Tools {
-  display: none;
-  visibility: hidden;
-}
-
-.helloworld {
-  color: #fff;
-  /**display: none;
-  visibility: hidden;*/
-}
-
-
-
-
-/**
- * Default styles.
- */
 
 .wbclock .local {
   margin-right: 60px; 
@@ -231,8 +192,39 @@ sup {
 
 
 
+/**
+ * ================Debug=================.
+ */
+
+.MMM-TelegramBot {
+  display: none;
+  visibility: hidden;
+}
+
+.MMM-ServerStatus {
+  display: none;
+  visibility: hidden;
+}
+
+.MMM-Tools {
+  display: none;
+  visibility: hidden;
+}
+
+.helloworld {
+  color: #fff;
+  /* */display: none;
+  visibility: hidden;/* */
+}
+/**
+ * =================End Debug=================.
+ */
 
 
+
+/**
+ * Default styles.
+ */
 
 .module {
   font-family: var(--font-secondary)
