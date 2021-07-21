@@ -150,6 +150,16 @@ sup {
   overflow:visible;
 }
 
+.calendar_monthly {
+  text-transform: capitalize;
+
+}
+
+.helloworld {
+  color: #ff00ff;
+}
+
+
 
 .wbclock .local {
   margin-right: 60px; 
