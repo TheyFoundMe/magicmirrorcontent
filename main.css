@@ -135,6 +135,10 @@ sup {
  */
 
 
+.iFrame {
+  border-radius: 20px;
+}
+
 
 .WB-weather {
   width: 1550px;
