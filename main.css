@@ -134,6 +134,19 @@ sup {
  * Module styles.
  */
 
+
+.MMM-TelegramBot {
+  display: none;
+  visibility: hidden;
+}
+
+.MMM-ServerStatus {
+  display: none;
+  visibility: hidden;
+}
+
+
+
 .WB-weather {
   width: 1550px;
   height: 200px;
@@ -290,6 +303,7 @@ sup {
   top: 25%;
   z-index: 2;
   width: 70%;
+  transform: translateX(-30%);
 }
 
 .region.middle.center {
