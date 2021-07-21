@@ -146,6 +146,7 @@ sup {
   font-family: var(--font-primary);
   font-weight: 700;
   overflow:visible;
+  padding: 20%;
 }
 
 .calendar_monthly {
