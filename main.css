@@ -201,6 +201,56 @@ sup {
 
 
 
+
+
+
+
+/**
+ * ================MMM-WiFiPassword=================.
+ */
+#WiFiPassword {
+  padding-top: 1em;
+  line-height: 1em;
+  text-align: left;
+  color: var(--color-text-bright);
+  width: 400px;
+}
+
+img {
+  display: inline;
+}
+
+.qr-image {
+  padding: 8px;
+}
+
+.text {
+  font-size: 0.75em
+}
+
+.layout-vertical {
+  display: block;
+}
+
+.layout-horizontal {
+  float: left;
+  display: inline;
+  padding-right: .5em;
+}
+/**
+ * ================End MMM-WiFiPassword=================.
+ */
+
+
+
+
+
+
+
+
+
+
+
 /**
  * ================WallberryTheme=================.
  */
