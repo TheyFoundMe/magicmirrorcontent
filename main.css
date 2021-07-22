@@ -190,6 +190,47 @@ sup {
 
 
 
+/**
+ * ================MMM-WiFiPassword=================.
+ */
+#WiFiPassword {
+  padding-top: 1em;
+  line-height: 1em;
+  text-align: left;
+  color: var(--color-text-bright);
+}
+
+img {
+  display: inline;
+}
+
+.qr-image {
+  padding: 8px;
+}
+
+.text {
+  font-size: 0.75em
+}
+
+.layout-vertical {
+  display: block;
+}
+
+.layout-horizontal {
+  float: left;
+  display: inline;
+  padding-right: .5em;
+}
+/**
+ * ================End MMM-WiFiPassword=================.
+ */
+
+
+
+
+
+
+
 
 /**
  * ================WallberryTheme=================.
@@ -203,6 +244,9 @@ sup {
   width: 1550px;
   height: 200px;
 }
+
+
+
 
 .WB-weather .module-content .weather:before,
 .WB-weather .module-content .weather:after {
