@@ -149,6 +149,10 @@ sup {
   will-change: transform;
 }
 
+.MMM-EARTH {
+  display: none;
+  visibility: hidden;
+}
 
 
 .compliments {
