@@ -135,6 +135,12 @@ sup {
  */
 
 
+.iFrame2 {
+  display: none;
+  visibility: hidden;
+}
+
+
 .WB-weather {
   width: 1550px;
   height: 200px;
