@@ -636,7 +636,7 @@ img {
 }
 
 #SPOTIFY.pausing #SPOTIFY_COVER_IMAGE {
-  filter:brightness(60%) grayscale(75%);
+  filter:brightness(60%) grayscale(85%);
 }
 
 #SPOTIFY.modal #SPOTIFY_COVER_IMAGE {
