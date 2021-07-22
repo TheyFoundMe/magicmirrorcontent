@@ -135,6 +135,14 @@ sup {
  */
 
 
+
+.iFrame {
+  /*display: none;
+  visibility: hidden;*/
+  position: fixed;
+  border: 3px solid #73AD21;
+}
+
 .iFrame2 {
   /*display: none;
   visibility: hidden;*/
