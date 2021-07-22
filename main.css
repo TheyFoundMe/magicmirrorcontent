@@ -142,7 +142,6 @@ sup {
   /*display: none;
   visibility: hidden;*/
   position: absolute;
-  border: 20px solid #00ff21;
   border-radius: 20px;
   overflow: hidden;
 }
@@ -151,7 +150,6 @@ sup {
   /*display: none;
   visibility: hidden;*/
   position: absolute !important;
-  border: 10px solid #00ff21;
   overflow: hidden;
   border-radius:20px;
   transform: translateY(-1000px)
