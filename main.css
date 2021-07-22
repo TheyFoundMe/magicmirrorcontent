@@ -1190,8 +1190,8 @@ progress[value]#SPOTIFY_PROGRESS_BAR::-webkit-progress-bar {
 }
 
 .region.upper.third {
-  top: 30%;
-  z-index: 2;
+  top: 33%;
+  z-index: 5;
 }
 
 .region.middle.center {
