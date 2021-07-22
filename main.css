@@ -638,6 +638,7 @@ img {
 
 #SPOTIFY.pausing #SPOTIFY_COVER_IMAGE {
   filter:brightness(50%) grayscale(75%) blur(10px);
+  overflow: hidden;
 }
 
 #SPOTIFY.modal #SPOTIFY_COVER_IMAGE {
