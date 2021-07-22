@@ -148,6 +148,8 @@ sup {
   visibility: hidden;*/
   position: absolute !important;
   border: 6px solid #00ff21;
+  overflow: hidden;
+  border-radius: 100px;
 }
 
 
