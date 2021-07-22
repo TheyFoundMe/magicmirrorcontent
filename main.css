@@ -136,8 +136,10 @@ sup {
 
 
 .iFrame2 {
-  display: none;
-  visibility: hidden;
+  /*display: none;
+  visibility: hidden;*/
+  position: fixed;
+  border: 3px solid #73AD21;
 }
 
 
