@@ -146,7 +146,7 @@ sup {
 .iFrame2 {
   /*display: none;
   visibility: hidden;*/
-  position: absolute;
+  position: fixed !important;
   border: 6px solid #00ff21;
 }
 
