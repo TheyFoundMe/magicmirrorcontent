@@ -166,6 +166,38 @@ sup {
   text-transform: capitalize;
 
 }
+
+
+
+
+.calendar .symbol {
+  display: flex;
+  font-primary: var(--font-primary);
+  flex-direction: row;
+  justify-content: flex-end;
+  padding-left: 0;
+  padding-right: 10px;
+  font-size: var(--font-size-small);
+}
+
+.calendar .symbol span {
+  padding-top: 4px;
+}
+
+.calendar .title {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.calendar .time {
+  padding-left: 30px;
+  text-align: right;
+  vertical-align: top;
+}
+
+
+
+
 /**
  * ================End Misc=================.
  */
