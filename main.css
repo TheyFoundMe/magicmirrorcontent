@@ -138,29 +138,10 @@ sup {
 
 
 
-.iFrame {
-  /*display: none;
-  visibility: hidden;*/
-  position: absolute;
-  border-radius: 20px;
-  overflow: hidden;
-}
 
-.iFrame2 {
-  /*display: none;
-  visibility: hidden;*/
-  position: absolute !important;
-  overflow: hidden;
-  border-radius:20px;
-  transform: translateY(-1000px)
-}
-
-
-.WB-weather {
-  width: 1550px;
-  height: 200px;
-}
-
+/**
+ * ================Misc=================.
+ */
 
 .compliments {
   font-family: var(--font-primary);
@@ -173,9 +154,118 @@ sup {
   text-transform: capitalize;
 
 }
+/**
+ * ================End Misc=================.
+ */
 
 
 
+
+
+
+/**
+ * ================iFrame=================.
+ */
+.iFrame {
+  /*display: none;
+  visibility: hidden;*/
+  position: absolute;
+  /*border-radius: 20px; Implementado diretamente no JS */
+  overflow: hidden;
+}
+
+.iFrame2 {
+  /*display: none;
+  visibility: hidden;*/
+  position: absolute !important;
+  overflow: hidden;
+  /*border-radius: 20px; Implementado diretamente no JS */
+  transform: translateY(-1000px)
+}
+/**
+ * ================End iFrame=================.
+ */
+
+
+
+
+
+
+/**
+ * ================WallberryTheme=================.
+ */
+
+
+/**
+ Weather \/
+ */
+.WB-weather {
+  width: 1550px;
+  height: 200px;
+}
+
+.WB-weather .module-content .weather:before,
+.WB-weather .module-content .weather:after {
+  content: "";
+  display: table;
+}
+.WB-weather .module-content .weather:after {
+  clear: both;
+}
+.WB-weather .module-content .weather {
+  clear: both;
+}
+
+.weather__current {
+  text-align: left;
+  float: left;
+  width: 40%; 
+  text-transform: capitalize;
+  color: var(--color-text-bright);
+}
+  .weather__current .current__temperature {
+    font-size: 72px;
+    padding-bottom: 15px; }
+    .weather__current .current__temperature i {
+      font-size: 60px; }
+    .weather__current .current__temperature .wi-current {
+      padding-left: 10px; }
+  .weather__current .weather__description {
+    font-size: 28px; }
+
+.weather__weeklyforecast {
+  text-align: right;
+  float: right; }
+  .weather__weeklyforecast .forecast:first-child {
+    margin-left: 0px; }
+  .weather__weeklyforecast .forecast {
+    margin-left: 40px;
+    text-align: center;
+    font-size: 22px;
+    float: left; }
+    .weather__weeklyforecast .forecast .forecast__icon {
+      font-size: 40px;
+      margin: 10px 0px; }
+    .weather__weeklyforecast .forecast .forecast__day {
+      text-transform: uppercase;
+      font-size: 28px; }
+    .weather__weeklyforecast .forecast .forecast__rainchance i {
+      position: relative;
+      padding-right: 5px;
+      top: 2px; }
+    .weather__weeklyforecast .forecast .forecast__highlow {
+      position: relative;
+      top: -7px; }
+
+
+
+
+
+
+
+/**
+ Clock \/
+ */
 
 .wbclock .local {
   margin-right: 60px; 
@@ -202,7 +292,8 @@ sup {
   font-family: var(--font-secondary);
   font-size: 50px; 
   padding-left: 20px;
-  }
+}
+
 .wbclock__zones .city {
   font-size: 80px;
   opacity: .6;
@@ -210,6 +301,9 @@ sup {
   padding-left: 10px;
   width: 800px;
 }
+/**
+ * ================End WallberryTheme=================.
+ */
 
 
 
@@ -245,8 +339,9 @@ sup {
 
 
 
-
-
+/**
+ * ================MMM-Carousel=================.
+ */
 .region.bottom {
 }
 
@@ -363,6 +458,9 @@ sup {
   left: 0%;
   z-index: 50;
 }
+/**
+ * ================End MMM-Carousel=================.
+ */
 
 
 
@@ -371,15 +469,9 @@ sup {
 
 
 
-
-
-
-
-
-
-
-
-
+/**
+ * ================MMM-Spotify=================.
+ */
 #SPOTIFY {
   position: relative;
   width: var(--sp-width);
@@ -904,6 +996,10 @@ progress[value]#SPOTIFY_PROGRESS_BAR::-webkit-progress-bar {
   display:inline-block;
   color: grey;
 }
+/**
+ * ================End MMM-Spotify=================.
+ */
+
 
 
 
