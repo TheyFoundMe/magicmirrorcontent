@@ -407,24 +407,24 @@ img {
  */
 
 .MMM-TelegramBot {
-  display: none;
-  visibility: hidden;
+  /*display: none;
+  visibility: hidden;*/
 }
 
 .MMM-ServerStatus {
-  display: none;
-  visibility: hidden;
+  /*display: none;
+  visibility: hidden;*/
 }
 
 .MMM-Tools {
-  display: none;
-  visibility: hidden;
+  /*display: none;
+  visibility: hidden;*/
 }
 
 .helloworld {
   color: #fff;
-  /* */display: none;
-  visibility: hidden;/* */
+  /* display: none;
+  visibility: hidden; */
 }
 /**
  * =================End Debug=================.
