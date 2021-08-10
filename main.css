@@ -43,16 +43,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  
-  
-  
-  transform: rotate(-90deg);
-            transform-origin:bottom left;
-            
-            
-            top:-100vw;
-            
-            
 }
 
 /**
