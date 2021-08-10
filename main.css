@@ -26,7 +26,7 @@ html {
   font-size: var(--font-size);
   
   
-  transform: rotate(180deg);
+  transform: rotate(90deg);
             transform-origin:bottom left;
             
             position:absolute;
