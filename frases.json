@@ -1,0 +1,24 @@
+{
+    "rain" : [
+        "Leve seu guarda-chuva com você",
+        "Não esqueça o seu casaco",
+        "Está chuvoso lá fora, dirija com cuidado!",
+        "Está chuvoso lá fora, mas você ilumina o meu dia" 
+    ],
+    "thunderstorm" : [
+        "Leve seu guarda-chuva com você",
+        "Não esqueça o seu casaco",
+        "Está chuvoso lá fora, dirija com cuidado!",
+        "Está chuvoso lá fora, mas você ilumina o meu dia" 
+    ],
+    "....-01-01": [
+	"Feliz Ano Novo!"
+    ],
+    "....-12-25": [
+	"Feliz Natal!"
+    ],
+    "....-10-30": [
+	"Feliz Halloween!",
+	"Não olhe para trás."
+    ]
+}
